@@ -1,0 +1,13 @@
+doctype html
+html
+  head
+    link(type='text/css', rel='stylesheet', href='')
+    |     
+    title Hello
+  body
+    h1 Hello world #{name}
+    |     
+    div
+      -var index = 1
+      each val, key in list
+        a(id="#{index}", href="http://127.0.0.1:8081/vote?voteFor=#{val.name}&voter=#{name}") #{index++} : #{val.name} 
