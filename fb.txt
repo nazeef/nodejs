@@ -1,1 +1,3 @@
 https://medium.com/@TheBigFatNoob/working-on-facebooks-graph-api-using-node-js-4bd107ad8c61#.9d9b7c3t5
+
+http://www.odin.com/fileadmin/parallels/documents/Summit_presentations/Timur-N_APS2_Building_Custom_UI_for_APS_2_0_Applications-v2_1b.pdf
